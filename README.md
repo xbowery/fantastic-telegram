@@ -19,3 +19,12 @@ Run the following line before cloning the codes to ensure the libraries are inst
 ```python
 pip install -r requirements.txt
 ```
+
+Replace your bot's token in the code lines marked as "<YOUR TOKEN HERE>". 
+
+To get a unique token for your very first Telegram bot, please do the following steps listed below:
+
+1. Create a Telegram account (if you do not have one yet)
+2. Go to [BotFather](https://t.me/botfather) and type in /newbot.
+3. Follow the instructions listed by BotFather
+4. Once you receive the confirmation message, copy and store the token in a safe and secure place.
