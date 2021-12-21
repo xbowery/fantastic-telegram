@@ -28,3 +28,5 @@ To get a unique token for your very first Telegram bot, please do the following 
 2. Go to [BotFather](https://t.me/botfather) and type in /newbot.
 3. Follow the instructions listed by BotFather
 4. Once you receive the confirmation message, copy and store the token in a safe and secure place.
+
+Please read the respective README files in the folders to learn more about each respective functions of the bot.
